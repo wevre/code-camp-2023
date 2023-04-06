@@ -29,8 +29,8 @@ $ exit   #<- pops you back to regular user
 that makes it worth it for me to pay for it: 1Password has an ssh-agent that can authenticate private keys that you've stored within 1Password.
 This makes it super easy to user your private keys _with a passcode_ and interact with ssh, AWS servers, github, etc.
 
-4. Install [homebrew](https://brew.sh). This is a package manager for the Mac that makes it easy to install many different types of software that you run from
-the command line. 
+4. Install [homebrew](https://brew.sh). This is a package manager for the Mac that makes it easy to install many different types of 
+software that you run from the command line. Most of items below are installed with homebrew. 
 
 5. The default shell on Mac OS was changed from bash to zsh. I prefer bash. Here are some [instructions](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba) for installing it with homebrew.
 
